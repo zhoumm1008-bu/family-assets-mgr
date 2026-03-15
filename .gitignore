@@ -1,0 +1,17 @@
+# IDE
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+backend/venv/
+
+# Frontend build
+frontend/node_modules/
+frontend/dist/
+
+# Data files (contain personal info)
+backend/excel2md/*.xlsx
+
+# OS
+.DS_Store
